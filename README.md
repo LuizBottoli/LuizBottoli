@@ -22,13 +22,10 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io"/>
-  </a>
-  <a href="mailto:bottoli533@gmail.com">
-    <img src="https://shields.io"/>
+## Contato 
+<p align="center"> 
+  <a href="mailto:bottoli533@gmail.com"> 
+    <img src="https://shields.io"/> 
   </a>
 </p>
 
