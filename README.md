@@ -6,18 +6,11 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Programação
-- 🌱 Atualmente estudando Python, React e FastAPI
-- 🎯 Objetivo: atuar como Desenvolvedor de Software
-
----
 
 ## 🛠️ Tecnologias que estou estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,fastapi,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,fastapi,postgresql,github,vscode" />
 </p>
 
 
