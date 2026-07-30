@@ -22,7 +22,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 </p>
 
 ---
-## 📫 Contato
+##  Contato
 <a href="mailto:bottoli533@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
