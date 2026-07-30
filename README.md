@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luiz Bottoli
 
-<!--
-**LuizBottoli/LuizBottoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Desenvolvimento de Software**  
 
-Here are some ideas to get you started:
+Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvimento web, APIs e boas práticas de programação. Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimento e evoluir constantemente como programador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Programação
+- 🌱 Atualmente estudando Python, React e FastAPI
+- 🎯 Objetivo: atuar como Desenvolvedor de Software
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,fastapi,postgresql,git,github,vscode" />
+</p>
+
+
+
+## 💻 Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:bottoli533@gmail.com">
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/luiz-bottoli-856286393/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
