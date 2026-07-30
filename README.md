@@ -1,13 +1,13 @@
-# 👋 Olá! Eu sou o Luiz Bottoli
+# Olá! Eu sou o Luiz Bottoli
 
-💻 **Estudante de Desenvolvimento de Software**  
+ **Estudante de Desenvolvimento de Software**  
 
 Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvimento web, APIs e boas práticas de programação. Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimento e evoluir constantemente como programador.
 
 ---
 
 
-## 🛠️ Tecnologias que estou estudando
+##  Tecnologias que estou estudando
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,postgresql" />
@@ -15,7 +15,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 
 
 
-## 💻 Ferramentas
+##  Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
@@ -23,7 +23,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p align="center">
   <a href="Emailto:bottoli533@gmail.com">
