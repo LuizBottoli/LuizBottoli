@@ -10,7 +10,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 ## 🛠️ Tecnologias que estou estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,postgresql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,postgresql,github" />
 </p>
 
 
