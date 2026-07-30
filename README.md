@@ -10,7 +10,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 ## 🛠️ Tecnologias que estou estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,fastapi,postgresql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,postgresql,github,vscode" />
 </p>
 
 
@@ -26,7 +26,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:bottoli533@gmail.com">
+  <a href="Emailto:bottoli533@gmail.com">
     <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
