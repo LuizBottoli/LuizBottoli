@@ -18,7 +18,7 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 ##  Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
