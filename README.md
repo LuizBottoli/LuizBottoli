@@ -23,12 +23,12 @@ Atualmente estou construindo minha base como desenvolvedor, estudando desenvolvi
 
 ---
 
-##  Contato
-
 <p align="center">
-  <a href="Emailto:bottoli533@gmail.com">
+  <a href="mailto:bottoli533@gmail.com">
     <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
 
   <a href="https://www.linkedin.com/in/luiz-bottoli-856286393/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
